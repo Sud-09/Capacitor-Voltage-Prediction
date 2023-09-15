@@ -3,3 +3,4 @@ A capacitor is a device which is used to store electric charge using a couple of
 That being said, we know that the equation for capacitor discharging can be linearized easily logarithm and some rearrangement. On the other hand, the capacitor charging equation cannot be linearized just by using logarithms and rearrangement. This is where the proposed approach will come into use.
 Summary :- 'To predict the capacitor voltage by using algebraic best fit approach we need an approximation that will help us solve non-linear charging and discharging equations'
 A research paper and python code will be provided in this repository.
+The "14674814-Regressions-et-equations-integrales" file in this repository provides the mathematical explanation of the process used to predict the final value.
