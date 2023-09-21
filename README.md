@@ -4,3 +4,4 @@ That being said, we know that the equation for capacitor discharging can be line
 Summary :- 'To predict the capacitor voltage by using algebraic best fit approach we need an approximation that will help us solve non-linear charging and discharging equations'
 A research paper and python code will be provided in this repository.
 The "14674814-Regressions-et-equations-integrales" file in this repository provides the mathematical explanation of the process used to predict the final value.
+The 'Cap_voltage_prediction.py' provides the python code for capacitor voltage prediction.
