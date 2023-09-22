@@ -5,3 +5,6 @@ Summary :- 'To predict the capacitor voltage by using algebraic best fit approac
 A research paper and python code will be provided in this repository.
 The "14674814-Regressions-et-equations-integrales" file in this repository provides the mathematical explanation of the process used to predict the final value.
 The 'Cap_voltage_prediction.py' provides the python code for capacitor voltage prediction.
+
+Created By Sudhanva Gokhale || sudhanva@vt.edu
+       and Mackenzie Clark  || mjclark355@gmail.com 
